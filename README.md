@@ -6,4 +6,5 @@ order_sep is a function to reorder coordinates based on data separation
 high_dim_dep is a function to reorder high dimensional data based on dependency criterion
 high_dim_sep is a function to reorder high dimensional data based on separation criterion
 
-order_example is an example for white wine dataset on different dependency measures and also for separation purpose
+order_example is an example for white wine dataset on different dependency measures and also for separation purpose. The white wine dataset can be found using the following link:
+https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/
